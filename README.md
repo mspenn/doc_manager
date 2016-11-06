@@ -1,4 +1,4 @@
-# doc_manager
+# Document Manager
 an auto document classifier
 
 my first try to data mining work
