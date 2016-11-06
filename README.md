@@ -16,7 +16,7 @@ my first try to data mining work
 + Vector Space Model: TF-IDF
 + Chi-Square Test for feacture reduction
 
-### Classifier
+### Classify
 + SVM
 + Naive Bayes
 
