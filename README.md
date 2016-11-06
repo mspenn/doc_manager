@@ -11,9 +11,11 @@ my first try to data mining work
 + remove blanks
 + remove stop words
 + word stemming
+
 ### Feature
 + Vector Space Model: TF-IDF
 + Chi-Square Test for feacture reduction
+
 ### Classifier
 + SVM
 + Naive Bayes
